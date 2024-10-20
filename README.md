@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @FranciscoSegura88
-- 👀 I’m interested in coding in general
+- 👀 I’m interested in coding and basketball
 - 🌱 I’m currently trying to survive life
-- 💞️ I’m looking to get experience in the field, please im beggin
-- 📫 How to reach me: franciscoseguravalencia@gmail.com <- job offers please
-- ⚡ Fun fact: I'm also backhoe operator (my dad owns one and I learnt to operate it since I was 15 y.o)
+- 💞️ I’m looking to get experience in the field
+- 📫 How to reach me: franciscoseguravalencia@gmail.com
+- ⚡ Fun fact: I'm know hot to operate a backhoe since I was 12 y.o 
 
 <!---
 FranciscoSegura88/FranciscoSegura88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
