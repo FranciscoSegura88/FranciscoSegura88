@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FranciscoSegura88
 - 👀 I’m interested in coding and basketball
-- 🌱 I’m currently trying to survive life
-- 💞️ I’m looking to get experience in the field
+- 🌱 I’m currently studying a Bachelor of Engineering in Computer Science
+- 💞️ I’m looking to get land my first internship
 - 📫 How to reach me: franciscoseguravalencia@gmail.com
 - ⚡ Fun fact: I'm know hot to operate a backhoe since I was 12 y.o 
 
